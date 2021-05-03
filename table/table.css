@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  align-items: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+td {
+  width: 20px;
+  height: 20px;
+}
+.e {
+  background-color: yellow;
+}
+.s {
+  background-color: blue;
+}
+.i {
+  background-color: red;
+}

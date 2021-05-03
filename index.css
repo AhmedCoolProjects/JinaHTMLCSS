@@ -1,0 +1,45 @@
+/* code css */
+
+.class_h1 {
+  color: red;
+  font-size: 50px;
+  margin-left: 20px;
+  text-decoration: underline;
+}
+
+.class_strong {
+  color: green;
+  font-size: 15px;
+  font-style: italic;
+}
+
+#my_div_id {
+  width: 200px;
+  height: 200px;
+  background-color: indigo;
+}
+
+p {
+  color: blue;
+  font-size: 80px;
+}
+
+#id_2 {
+  color: red;
+  font-size: 50px;
+}
+
+table,
+th,
+td {
+  border: 1px solid red;
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+/* link html-css */
+/* class name (.), id name (#), standard element () */
